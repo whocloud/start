@@ -1,0 +1,2 @@
+This is a file created by another one ,
+We use this file to show the commands [git fetch] and [git pull]!
